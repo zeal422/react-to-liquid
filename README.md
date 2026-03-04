@@ -1,4 +1,4 @@
-# React to Liquid — Opencode Skill
+# React to Liquid — LLM Skill
 
 Converts React applications into **Shopify Online Store 2.0** theme code.
 
